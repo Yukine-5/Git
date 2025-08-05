@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+    background: #fff;
+    color: white;
+}
+.first{
+    background: red;
+}
+.main{
+    background: green;
+}
+.footer{
+    background: yellow;
+}
